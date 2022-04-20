@@ -1,4 +1,4 @@
-### Cowboy-Web
+### OASIS Studios
 
 ### Info
-This is the website for the Cowboy-Waves.
+This is the website for the TGWK (The Gladiator Will Kill)
